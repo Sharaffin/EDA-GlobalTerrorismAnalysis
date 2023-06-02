@@ -1,4 +1,4 @@
-# EDA-GlobalTerrorismAnalysis
+
 <h><img src="https://i.gifer.com/LNBM.gif" align="centre"></h>
 <h1 align="center"> EDA on Global Terrorism Analysis</h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
