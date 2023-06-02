@@ -79,10 +79,10 @@ Sharaffin B | Data Science | Machine Learning | Deep Learning enthusiast
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
 <ul>
-  <li><p> MachineLearningMastery </p>
+  <li><p> Machine Learning Mastery </p>
   </li>
  
-  <li><p>2. GeeksforGeeks</p>
+  <li><p>GeeksforGeeks</p>
        </li>
  
 </ul>
