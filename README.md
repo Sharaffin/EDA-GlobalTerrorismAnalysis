@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> EDA on Global Terrorism Analysis</h1>
-<h><img src="https://media.giphy.com/media/26ufnEC0c8bJBRmk8/giphy.gif" align="centre"></h>
+<h> <img src="https://media.giphy.com/media/26ufnEC0c8bJBRmk8/giphy.gif" align="centre"> </h>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p>Terrorism is the threatened or actual use of illegal force and violence by a non-state actor to attain a political ,economic, religious or social goal through fear, coercin or intimidation. It is a threat and is the greatest violator of human rights, it challenges the authority of the government and puts the security and sovereignty of a country in jeopardy. Our main aim in the project was to explore and visualize Global Terrorism Database (GTD), which is maintained by the University of Maryland. The database has information regarding 1,80,000 terrorist events around the world for the years 1970-2017 with detailed attributes like number of deaths, damage,terrorist groups involved, location etc..</p>
