@@ -1,5 +1,5 @@
 
-<h><img src="https://i.gifer.com/LNBM.gif" align="centre"></h>
+<h><img src="https://media.giphy.com/media/26ufnEC0c8bJBRmk8/giphy.gif" align="centre"></h>
 <h1 align="center"> EDA on Global Terrorism Analysis</h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
